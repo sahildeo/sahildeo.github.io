@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on Sahil Deo</title>
+    <link>https://sahildeo.github.io/tags/media/</link>
+    <description>Recent content in media on Sahil Deo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://sahildeo.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Media, Podcasts etc.</title>
+      <link>https://sahildeo.github.io/media/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://sahildeo.github.io/media/</guid>
+      <description>  Algorithmic Accountability in India: Deployment of AI systems by the state and the need for transparency, MediaNama, 10/06/2020
+  On the frontline, Hindustan Times, 15/4/2020
+  Pune firm, CPC Analytics, is India’s finalist for global innovation contest, Hindustan Times, 20/09/19
+  The Coronavirus Pandemic: Data and Technology Implications on Citizen-State Relations, Centre for Policy Research, 07/05/2020 - alongside Ananth Padmanabhan &amp;amp; Yamini Aiyar
+  </description>
+    </item>
+    
+  </channel>
+</rss>
