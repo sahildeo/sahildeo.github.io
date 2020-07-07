@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Sahil Deo</title>
+    <link>https://sahildeo.github.io/tags/about/</link>
+    <description>Recent content in about on Sahil Deo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://sahildeo.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://sahildeo.github.io/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://sahildeo.github.io/about/</guid>
+      <description>Sahil is a co-founder of CPC Analytics, a data-driven consulting firm with offices in Berlin and Pune. As a part of CPC, he has consulted leading private and public sector organizations such as Siemens, Mitsubishi Materials, the World Health Organization and GIZ (German International Cooperation).
+Prior to founding CPC, Sahil worked for GIZ (German International Cooperation) in Tanzania alongside the Prime Minister’s Office, to streamline the revenue collection process in Local Government Agencies.</description>
+    </item>
+    
+  </channel>
+</rss>
